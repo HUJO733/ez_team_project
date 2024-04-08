@@ -1,0 +1,20 @@
+1. git clone https://github.com/HUJO733/ez_team_project.git .
+위 명령어로 저장소 내려받기
+
+2. env 파일 생성 및 설정
+DB_HOST="사용할 DB host 이름"
+DB_PORT="사용할 DB port 번호"
+DB_USER="사용할 DB user 이름"
+DB_PASSWORD="사용할 DB password"
+DB_DATABASE="사용할 DB 스키마 이름"
+
+NAVER_CLIENT_ID="네이버 개발자 센터 Client ID"
+NAVER_CLIENT_SECRET="네이버 개발자 센터 Client Secret"
+
+3. SQL data import
+SQL 폴더
+
+4. newsAPI.py 및 newsWC.py 파일 실행
+SQL 연결 → newsAPI.py 실행 → newsWC.py 실행
+
+5. 실행 명령어 : npm run dev
