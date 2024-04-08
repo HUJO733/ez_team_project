@@ -14,7 +14,10 @@ NAVER_CLIENT_SECRET="네이버 개발자 센터 Client Secret"
 3. SQL data import
 SQL 폴더
 
-4. newsAPI.py 및 newsWC.py 파일 실행
+4. 가장 상위 폴더(실행 방법.txt 있는 곳)에서 npm i
+   my-app 들어가서 npm i
+
+5. newsAPI.py 및 newsWC.py 파일 실행
 SQL 연결 → newsAPI.py 실행 → newsWC.py 실행
 
-5. 실행 명령어 : npm run dev
+6. 실행 명령어 : npm run dev
